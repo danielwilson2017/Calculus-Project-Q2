@@ -1,3 +1,2 @@
 
-fn = input("What is the function you wish to input in values of x?")
-print(fn)
+nox = int(input("How many values of x would you like to input?"))
