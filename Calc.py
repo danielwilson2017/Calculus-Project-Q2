@@ -1,2 +1,3 @@
 
-nox = int(input("How many values of x would you like to input?"))
+nox = int(input("What is the function in values of x"))
+if nox 
